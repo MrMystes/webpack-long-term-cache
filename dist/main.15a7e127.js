@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["main"],{"./src/index.js":function(n,e,i){"use strict";i.r(e);var o=i("./src/module-1/index.js"),s=i("./src/module-2/index.js");o.a(["hello","world"]),s.a(new Date)}},[["./src/index.js","runtime~main","vendors","common~main","module-1~main","module-2~main"]]]);

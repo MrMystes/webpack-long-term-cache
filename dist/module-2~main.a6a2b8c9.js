@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["module-2~main"],{"./src/module-2/index.js":function(n,o,e){"use strict";e.d(o,"a",function(){return d});var s=e("./node_modules/lodash/lodash.js"),c=e("./src/common/index.js");function d(n){return console.log("234234"),Object(c.a)(Object(s.shuffle)(Object(s.keys)(n)))}}}]);
